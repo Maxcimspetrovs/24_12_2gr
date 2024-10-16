@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "vards": "Juris",
+        "klikski": 37,
+        "laiks": 45,
+        "datums": "12.07.2021"
+    },
+    { 
+         "id": 1,
+        "vards": "Makss",
+        "klikski": 41,
+        "laiks": 95,
+        "datums": "12.08.2021"
+    },
+    {  
+        "id": 2,
+        "vards": "Vika",
+        "klikski": 55,
+        "laiks": 110,
+        "datums": "12.09.2021"
+    },
+    {  
+        "id": 3,
+        "vards": "Anastasija",
+        "klikski": 74,
+        "laiks": 205,
+        "datums": "12.10.2021"
+    }
+]
