@@ -1,0 +1,66 @@
+/*Izvēlētā krāsu palete (Dobbelsteen Color Palette):*/
+/* #f44336,#8fce00,#2986cc,#f9d104,#aaaaaa */
+
+body{
+    background-color: #aaaaaa; /*Vispārīgais fons*/
+    color: #2986cc; /*Pamatteksts*/
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    width: 70%
+}
+
+h1{
+    color: #8fce00;
+    text-align: center;
+    font-size: 2em
+}
+
+h2{
+    color: #f44336;
+    text-decoration: underline;
+}
+
+from label {
+    font-weight: bold;
+}
+
+input, button{
+    margin: 5px 0;
+    padding: 5px;
+    border: 2px solid #f9d104;
+    border-radius: 5px;
+}
+
+button{
+    background-color: #8fce00;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #2986cc
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td{
+    border: 1px solid #f9d104;
+}
+
+th{
+    background-color: #8fce00;
+}
+
+td{
+    text-align: center;
+}
+
+em{
+    font-style: italic;
+    color: #2986cc;
+    font-size: 1.1em;
+}
